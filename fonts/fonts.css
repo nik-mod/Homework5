@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Inter Semibold';
+    src: url('../fonts/Inter28pt-SemiBold.eot');
+    src: url('../fonts/Inter28pt-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Inter28pt-SemiBold.woff2') format('woff2'),
+        url('../fonts/Inter28pt-SemiBold.woff') format('woff'),
+        url('../fonts/Inter28pt-SemiBold.ttf') format('truetype'),
+        url('../fonts/Inter28pt-SemiBold.svg#Inter28pt-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter Regular';
+    src: url('../fonts/Inter18pt-Regular.eot');
+    src: url('../fonts/Inter18pt-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Inter18pt-Regular.woff2') format('woff2'),
+        url('../fonts/Inter18pt-Regular.woff') format('woff'),
+        url('../fonts/Inter18pt-Regular.ttf') format('truetype'),
+        url('../fonts/Inter18pt-Regular.svg#Inter18pt-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+

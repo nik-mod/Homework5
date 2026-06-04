@@ -1,0 +1,142 @@
+.header-section{
+    width: 1336px;
+    text-align: center;
+    margin: 80px auto 48px;
+}
+.header-minititle{
+    font-size: 16px;
+    color: #282828;
+    margin-bottom: 4px;
+    font-family: 'Inter Semibold' ;
+}
+.header-title{
+    font-size: 54px;
+    color: #282828;
+    font-family: 'Inter Semibold';
+}
+.header-desctiption{
+    line-height: 35px;
+    color: #5F6980;
+    font-size: 20px;
+    width: 760px;
+    height: 70px;
+    margin: 16px auto 0;
+    font-family: 'Inter Regular';
+    padding: 0 5px 0;
+}
+.card{
+    background-color: #FFFFFF;
+    border: 1px solid #EAECF0;
+    width: 310px;
+
+}
+.name{
+    font-family: 'Inter Semibold';
+    font-size: 18px;
+    color:#282828;
+    margin-bottom: 4px;
+}
+.work{
+    font-family: 'Inter Regular';
+    font-size: 14px;
+    color: #3E3E59;
+    margin-bottom: 8px;
+}
+.author-desc{
+    font-family: 'Inter Regular';
+    font-size: 14px;
+    color: #3E3E59;
+    line-height: 22px;
+}
+.card-description{
+    width: 278px;
+    margin: 16px auto 24px;
+}
+.icon-div{
+    width: 278px;
+    display: flex;
+    justify-content: start;
+    gap: 16px;
+    margin: 0 auto 16px;
+    
+}
+.icon{
+    width: 36px;
+    height: 36px;
+    background-color: #F2F4F7;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.section-div{
+    width: 1336px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 32px;
+    margin: 0 auto ;
+}
+footer{
+    background-color: #53535354;
+    padding: 108px 0 129px;
+}
+
+.footer-div{
+    width: 1128px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto ;
+}
+.logo{
+    margin-bottom: 32px;
+}
+.footer-description{
+    font-size: 14px;
+    color: #535353;
+    width: 306.05px;
+    font-family: 'Inter Regular';
+    margin-bottom: 28px;
+}
+
+.footer-title{
+    color: #1E1E1E;
+    font-size: 20px;
+    font-family: 'Inter Semibold';
+    margin-bottom: 71px;
+    
+}
+.grey{
+    color: #535353;
+    font-size: 14px;
+    font-family: 'Inter Regular';
+}
+.website{
+    width: 136px;
+    display: flex;
+    flex-direction: column;
+
+
+}
+li{
+    margin-bottom: 16px;
+}
+
+.footer-services{
+    width: 199px;
+}
+.margin-title{
+    margin-bottom: 58.45px;
+}
+.button{
+    color: white;
+    background-color: #054A68;
+    font-size: 14px;
+    font-family: 'Inter Regular';
+    width: 80px;
+    height: 45px;
+    border: none;
+    cursor: pointer;
+}
